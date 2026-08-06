@@ -1,0 +1,11 @@
+codigo,competencia,descripcion,territorios_asociados
+CT-01,Pesca y cadena fría,"Captura, conservación, logística, inocuidad, comercialización y mantenimiento básico.","Pesca, costa, ríos"
+CT-02,Turismo local y servicios de experiencia,"Diseño de rutas, atención al visitante, seguridad, cultura, gastronomía y marketing digital.","Turismo, cultura, playas, montañas"
+CT-03,Agricultura y agroprocesamiento,"Siembra, cosecha, transformación, empaque, control de calidad y comercialización.","Agricultura, frutas, cacao, café, cereales"
+CT-04,Ganadería y alimentos,"Manejo animal, procesamiento, inocuidad, trazabilidad y servicios veterinarios básicos.","Ganadería, alimentos"
+CT-05,Mantenimiento y manufactura ligera,"Herramientas, reparación, metalmecánica básica, seguridad, mejora de equipos y prototipos.","Industria, talleres, manufactura"
+CT-06,Agua segura y saneamiento local,"Captación, almacenamiento, potabilización, monitoreo, mantenimiento y educación comunitaria.","Aguas, ríos, costa, emergencias"
+CT-07,Energía comunitaria y servicios técnicos,"Electricidad básica, solar, bombas, ahorro energético, mantenimiento y seguridad.","Energía, rural, urbano"
+CT-08,Comercio digital y microempresa,"Costeo, catálogo, venta digital, atención al cliente, inventario y logística.",Todos los estados
+CT-09,Cartografía social y monitoreo territorial,"Mapeo de recursos, Google Earth, evidencias, indicadores, riesgos y oportunidades.",Todos los estados
+CT-10,"Artesanía, cultura e industrias creativas","Diseño, identidad territorial, empaque, narrativas, mercado y eventos.","Cultura, turismo, artesanía"
